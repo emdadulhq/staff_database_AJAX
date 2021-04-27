@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a686da-a7bf-44ab-b499-92a024401288" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax_template/staff_all.php" beforeDir="false" afterPath="$PROJECT_DIR$/ajax_template/staff_all.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controller/Staff.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controller/Staff.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Support/Database.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Support/Database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/0d1bef85d3dbfd94757ea51be62e240f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/0d3112ae82dc115e6124412dec68997b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/5972bcffa52727873aaab060b9b1f2197.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/77d8ebcbf0edb30e77cc3474bb41b4f113.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/bc8fcf3919faf92009d4101b508dedbf22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/c3ab98159b9d94eb388b7211ce1e4c0310.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/cc33f88ab99dd523f03327f5989ef69d21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/staff/d488693c7165f4cb46f75217c935338123.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k0ujHH7YQSTJEmivGeIEXMllS1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a686da-a7bf-44ab-b499-92a024401288" name="Default Changelist" comment="" />
+      <created>1604849972216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604849972216</updated>
+      <workItem from="1604849976528" duration="1990000" />
+      <workItem from="1605191412249" duration="5147000" />
+      <workItem from="1606055411516" duration="5497000" />
+      <workItem from="1606313964041" duration="8092000" />
+      <workItem from="1606667489939" duration="1998000" />
+      <workItem from="1607267843453" duration="4744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="608" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607272361675">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="608" y="139" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1607272361675" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1604851779511">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1604851779511" />
+  </component>
+</project>
